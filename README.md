@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vipulshetty
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning btech in engineering
-- 💞️ I’m looking to collaborate on google
 - 📫 How to reach me vipulshetty918@gmai.com
 
 <!---
